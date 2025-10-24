@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Luana Silva",
+      "email": "luana@email.com",
+      "cpf": "10.929.383/8474-44",
+      "birthDate": "2025-07-01",
+      "id": "e549"
+    },
+    {
+      "name": "Joana Mendes",
+      "email": "Joana@email.com",
+      "cpf": "125.456.523-24",
+      "birthDate": "1999-12-27",
+      "id": "edd9"
+    },
+    {
+      "id": "eee7",
+      "name": "Fabiana",
+      "email": "fabiana@email.com",
+      "cpf": "12345678901",
+      "birthDate": "2025-07-02"
+    }
+  ]
+}
